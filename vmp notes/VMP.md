@@ -2,6 +2,8 @@
 
 ### 搭建环境
 
+主要看了周壑老师的课写的笔记
+
 主要的模拟环境是capstone和unicorn
 
 capstone: https://github.com/aquynh/capstone
